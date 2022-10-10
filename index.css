@@ -4,7 +4,7 @@ body {
   padding: 0;
   font-family: "Outfit", sans-serif;
   font-size: 16px;
-  background-color: rgb(213, 229, 236);
+  background-color: hsl(204deg, 43%, 93%);
   color: black;
 }
 
@@ -38,7 +38,7 @@ body {
 }
 
 .top p {
-  color: lightgrey;
+  color: hsl(218deg, 22%, 67%);
 }
 
 .top span {
@@ -66,6 +66,7 @@ p {
 
 .subscription {
   background-color: hsl(179deg, 62%, 43%);
+  height: 100%;
 }
 
 .subscription span {
@@ -105,13 +106,12 @@ h2 {
   background-color: hsl(178deg, 44%, 53%);
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
-  height: 220px;
+  height: 100%;
 }
 
 .why-us p {
   line-height: 1.5;
-  font-weight: normal;
-  color: hsl(204deg, 43%, 93%);
+  color: hsl(178deg, 45%, 76%);
 }
 
 h3 {
