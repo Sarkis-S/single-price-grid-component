@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile](./images/mobile_view.png =250x)
+![mobile](./images/mobile_view.png){width=250px}
 ![desktop](./images/desktop_view.png)
 
 
