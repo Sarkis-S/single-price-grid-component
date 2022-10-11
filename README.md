@@ -73,5 +73,5 @@ Although this was a simple component I was pleasantly surprised how much work I 
 
 ## Author
 
-- Website - [Sarkis SOs](https://www.your-site.com)
+- Website - [Sarkis Sos](https://www.your-site.com)
 - Frontend Mentor - [@Sarkis-S](https://www.frontendmentor.io/profile/Sarkis-S)
