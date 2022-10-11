@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile](./images/mobile_view.png){width=250px}
+![mobile](./images/mobile_view.png)
 ![desktop](./images/desktop_view.png)
 
 
@@ -37,9 +37,9 @@ Users should be able to:
 
 ## My process
 - Figure out the structure of the component (thinking in boxes)
-  &nbsp;&nbsp;- I decided to use CSS Grid this time just to try and learn something new
+  * I decided to use CSS Grid this time just to try and learn something new
 - Given a style guide determine how I can make best use of them
-  &nbsp;&nbsp;- I decided to use SCSS/SASS so that I can take advante of reusable varable styles
+  * I decided to use SCSS/SASS so that I can take advante of reusable varable styles
 - Center main element to the middle of the desktop
 - Apply the styling for mobile view
 - Apply the styling for desktop view
