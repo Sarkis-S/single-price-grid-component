@@ -39,7 +39,7 @@ Users should be able to:
 - Figure out the structure of the component (thinking in boxes)
   * I decided to use CSS Grid this time just to try and learn something new
 - Given a style guide determine how I can make best use of them
-  * I decided to use SCSS/SASS so that I can take advante of reusable varable styles
+  * I decided to use SCSS/SASS so that I can take advantage of reusable variable styles
 - Center main element to the middle of the desktop
 - Apply the styling for mobile view
 - Apply the styling for desktop view
@@ -48,6 +48,7 @@ Users should be able to:
 - Editing and many more touch ups
 - Complete README
 - Host component live
+- Test component responsiveness and more edit
 
 ### Built with
 
